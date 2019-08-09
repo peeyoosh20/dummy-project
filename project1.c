@@ -15,7 +15,7 @@ void printHead();//printing head line for each screen
 
 struct Stud
 {
-    char name[100];
+    char name[50];
     char branch[50];
     int roll;
     char add[100];
